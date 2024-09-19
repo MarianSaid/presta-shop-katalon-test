@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_0_ADD_TO_WISHLIST</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c1801d5-d87f-44fe-a1b7-22453be5364b</testCaseGuid>
+</TestCaseEntity>
